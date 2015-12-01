@@ -33,3 +33,25 @@ edx				https://www.edx.org					美国	部分中文课程	免费		视频		部分课程中文		WPY
 第一学习网			http://www.xxw001.com/list.php?id=1			中国	全中文课程	部分收费	视频					SMB
 
 -----------------------------------------------------------------------以上2015.11.30--------------------------------------------------------------------------------------------------------
+计蒜客				http://www.jisuanke.com/				中国	全中文课程	免费		实验					WYJ
+国家开放大学			http://www.ouchn.edu.cn/				中国	全中文课程	免费		视频					WYJ
+教程之家			http://www.jczhijia.com/				中国	全中文课程	免费		视频					WYJ
+后盾网				http://bbs.houdunwang.com/				中国	全中文课程	免费		视频		PHP			WYJ
+万门大学			http://www.wanmen.org/					中国	全中文课程	免费		视频					WYJ
+饭糕网				http://fangao.geaern.com/				中国	全中文课程	部分收费	视频		漫画			WYJ
+网易云课堂			http://study.163.com/					中国	全中文课程	部分收费	视频					WYJ
+顶你学堂			www.TopU.com						中国	全中文课程	免费		视频					WYJ
+优课联盟			http://www.uooc.org.cn/					中国	全中文课程	免费		视频					WYJ
+中国职业教育微课程及mooc联盟	http://www.wkclm.com/web/app.php			中国	全中文课程	免费		视频					WYJ
+中国高校计算机教育mooc联盟	http://computer.icourses.cn/				中国	全中文课程	免费		视频		计算机			WYJ
+Mooc中国			http://www.mooc.cn/					中国	全中文课程	免费		视频					WYJ
+人卫慕课			http://www.pmphmooc.com/				中国	全中文课程	免费		视频		医学			WYJ
+京师在线			http://mooc.bnu.edu.cn/					中国	全中文课程	免费		视频					WYJ
+高职联盟mooc平台		http://gaozhi.xuetangx.com/#				中国	全中文课程	免费		视频					WYJ
+智慧树				http://www.zhihuishu.com/				中国	全中文课程	免费		视频					WYJ
+医学慕课			http://www.mdmooc.org/					中国	全中文课程	免费		视频		医学			WYJ
+东西部高校课程共享联盟		http://www.wemooc.edu.cn/				中国	全中文课程	免费		视频					WYJ
+中国翻转课堂mooc联盟		http://454824249.genshuixue.com/			中国	全中文课程	免费		视频		资源极少		WYJ
+成人高校mooc联盟		http://amooc.ouchn.edu.cn/guokaimooc/homepage/common/	中国	全中文课程	免费		视频					WYJ
+栖夏mooc			http://mooc.qxjy.com/					中国	全中文课程	免费		视频					WYJ
+华师慕课（C20联盟）		http://home.c20.org.cn/mooc/				中国	全中文课程	免费		视频					WYJ

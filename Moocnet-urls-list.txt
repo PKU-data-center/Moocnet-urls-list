@@ -1,12 +1,27 @@
- 网站名称	        网站地址	                                               网站类型描述					               贡献者
-		                                                     平台描述	课程语言描述	费用描述        教学形式	其他	
-实验楼         	https://www.shiyanlou.com                              	中国	全中文   	免费	        视频+实验	会员制度、IT实验	ZQ
-极客学院	http://www.jikexueyuan.com/course/	                中国	全中文  	免费    	视频+实验	会员制度、IT实验	ZQ
-清华大学磨课师	http://mooc.nthu.edu.tw/sharecourse/            	中国	全中文  	免费	        视频		                        ZQ
-华文慕课	www.chinesemooc.org/	                                中国	全中文  	免费	        视频		                        ZQ
-学堂在线	www.xuetangx.com/courses	                        中国	全中文  	免费      	视频	                           	ZQ
-中国大学MOOC	www.icourse163.org/                                	中国	全中文  	免费      	视频	                              	ZQ
-慕课网  	www.imooc.com	                                        中国	全中文  	免费     	视频	                           	ZQ
-育网平台	http://www.ewant.org/coopwork.php                      	中国	全中文  	免费        	视频	                             	WYJ
-好大学在线	http://www.cnmooc.org/home/index.mooc           	中国	全中文	        免费         	视频	                         	WYJ
-mooc学院	http://mooc.guokr.com/	                                中国	全中文	        免费      	视频	                          	WYJ
+ 网站名称	                          网站地址	                                               网站类型描述					               贡献者
+		                                                      		     平台描述	课程语言描述	费用描述        教学形式	其他	
+实验楼         	                https://www.shiyanlou.com                              	中国	全中文   	免费	        视频+实验	会员制度、IT实验	ZQ
+极客学院	                http://www.jikexueyuan.com/course/	                中国	全中文  	免费    	视频+实验	会员制度、IT实验	ZQ
+清华大学磨课师	                http://mooc.nthu.edu.tw/sharecourse/            	中国	全中文  	免费	        视频		                        ZQ
+华文慕课	                www.chinesemooc.org/	                                中国	全中文  	免费	        视频		                        ZQ
+学堂在线	                www.xuetangx.com/courses	                        中国	全中文  	免费      	视频	                           	ZQ
+中国大学MOOC		        www.icourse163.org/                                	中国	全中文  	免费      	视频	                              	ZQ
+慕课网  		        www.imooc.com	                                        中国	全中文  	免费     	视频	                           	ZQ
+育网平台		        http://www.ewant.org/coopwork.php                      	中国	全中文  	免费        	视频	                             	WYJ
+好大学在线		        http://www.cnmooc.org/home/index.mooc           	中国	全中文	        免费         	视频	                         	WYJ
+mooc学院		        http://mooc.guokr.com/	                                中国	全中文	        免费      	视频	                          	WYJ
+清华大学慕课平台	        http://tsinghua.xuetangx.com/				中国	全中文课程	免费		视频		高校平台		TYW
+复旦大学慕课平台	        http://fudan.xuetangx.com/				中国	全中文课程	免费		视频		高校平台		TYW
+南京大学慕课平台		http://nju.xuetangx.com/				中国	全中文课程	免费		视频		高校平台		TYW
+中国科学技术大学慕课平台	http://moocs.ustc.edu.cn/				中国	全中文课程	免费		视频		高校平台		TYW
+台湾国立清华大学联合mooc平台	http://mooc.et.nthu.edu.tw/				中国	全中文课程	免费		视频					WPY
+国立师范台湾大学		http://www.moocs.ntnu.edu.tw/sharecourse/general/home	中国	全中文课程	免费		视频		高校平台		WPY
+中国教师慕课网			http://www.mooccollege.cn/				中国	全中文课程	免费		视频					WPY
+亚洲大学mooc平台		http://moocs.asia.edu.tw/sharecourse/general/home/	中国	全中文课程	免费		视频					WPY
+91淘课网			http://old.91taoke.com/					中国	全中文课程	部分收费	视频		初高课程		WPY
+微课堂				http://www.vko.cn/					中国	全中文课程	全部收费	视频		初高课程		WPY
+简单学习网			http://www.jd100.com/					中国	全中文课程	全部收费	视频		初高课程		WPY
+百度传课			http://www.chuanke.com/					中国	全中文课程	部分收费	视频					WPY
+第九课堂			http://www.dijiuke.com/					中国	全中文课程	全部收费	视频		培训类课程		WPY
+edx				https://www.edx.org					美国	部分中文课程	免费		视频		部分课程中文		WPY
+

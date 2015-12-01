@@ -1,22 +1,12 @@
-
------------2015.11.30----------------------------
-https://www.shiyanlou.com
-实验楼
-http://www.jikexueyuan.com/course/
-极客学院
-http://mooc.nthu.edu.tw/sharecourse/
-清华大学磨课师
-www.chinesemooc.org/
-华文慕课
-www.xuetangx.com/courses
-学堂在线
-www.icourse163.org/
-中国大学MOOC
-www.imooc.com
-慕课网
-http://www.ewant.org/coopwork.php
-育网平台
-http://www.cnmooc.org/home/index.mooc
-好大学在线
-http://mooc.guokr.com/
-mooc学院
+ 网站名称	        网站地址	                                               网站类型描述					               贡献者
+		                                                     平台描述	课程语言描述	费用描述        教学形式	其他	
+实验楼         	https://www.shiyanlou.com                              	中国	全中文   	免费	        视频+实验	会员制度、IT实验	ZQ
+极客学院	http://www.jikexueyuan.com/course/	                中国	全中文  	免费    	视频+实验	会员制度、IT实验	ZQ
+清华大学磨课师	http://mooc.nthu.edu.tw/sharecourse/            	中国	全中文  	免费	        视频		                        ZQ
+华文慕课	www.chinesemooc.org/	                                中国	全中文  	免费	        视频		                        ZQ
+学堂在线	www.xuetangx.com/courses	                        中国	全中文  	免费      	视频	                           	ZQ
+中国大学MOOC	www.icourse163.org/                                	中国	全中文  	免费      	视频	                              	ZQ
+慕课网  	www.imooc.com	                                        中国	全中文  	免费     	视频	                           	ZQ
+育网平台	http://www.ewant.org/coopwork.php                      	中国	全中文  	免费        	视频	                             	WYJ
+好大学在线	http://www.cnmooc.org/home/index.mooc           	中国	全中文	        免费         	视频	                         	WYJ
+mooc学院	http://mooc.guokr.com/	                                中国	全中文	        免费      	视频	                          	WYJ

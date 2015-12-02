@@ -55,3 +55,48 @@ Mooc中国			http://www.mooc.cn/					中国	全中文课程	免费		视频					WYJ
 成人高校mooc联盟		http://amooc.ouchn.edu.cn/guokaimooc/homepage/common/	中国	全中文课程	免费		视频					WYJ
 栖夏mooc			http://mooc.qxjy.com/					中国	全中文课程	免费		视频					WYJ
 华师慕课（C20联盟）		http://home.c20.org.cn/mooc/				中国	全中文课程	免费		视频					WYJ
+我要自学网			www.51zxw.net						中国	全中文课程	免费		视频					SMB
+家里蹲大学			www.jialidun.com					中国	全中文课程	免费		视频					SMB
+敏学网				www.minxue.net						中国	全中文课程	免费		视频					SMB
+视频教程网			www.spjc8.com						中国	全中文课程	免费		视频					SMB
+挖知课堂			www.wazhi.com.cn					中国	全中文课程	免费		视频					SMB
+博视网教育在线			www.bosw.net						中国	全中文课程	免费		视频					SMB
+58免费学习网			www.58xuexi.com						中国	全中文课程	免费		视频					SMB
+驾培视频学习网			dtl.e-trans.com.cn					中国	全中文课程	免费		视频+模拟	驾校			SMB
+听课网				www.tingke8.com						中国	全中文课程	免费		视频					SMB
+西东视频教程网			xidongv.com						中国	全中文课程	免费		视频					SMB
+星火视频!			www.21edu8.com						中国	全中文课程	免费		视频					SMB
+同桌100学习网			www.tongzhuo100.com					中国	全中文课程	部分收费	视频					SMB
+爱酷学习网是			www.icoolxue.com					中国	全中文课程	免费		视频					SMB
+西门子视频学习中心		http://www.ad.siemens.com.cn/service/elearning/cn/	中国	全中文课程	免费		视频					SMB
+教程之家			www.jczhijia.com					中国	全中文课程	免费		视频					SMB
+多贝网				http://www.duobei.com/					中国	全中文课程	免费		视频		职业技能学习		WTY
+中国统一教育网			http://www.tongyi.com/					中国	全中文课程	部分免费	视频					WTY
+学而思网校			http://www.xueersi.com/					中国	全中文课程	部分免费	视频					WTY
+腾讯课堂			http://ke.qq.com/					中国	全中文课程	少量收费	视频					WTY
+沪江网校			http://class.hujiang.com/v3/				中国	全中文课程	免费		视频					WTY
+cc课堂				http://www.cctalk.com/					中国	全中文课程	免费		视频					WTY
+新东方在线			http://www.koolearn.com/				中国	全中文课程	部分收费	视频					WTY
+酷学网				http://www.koo.cn/					中国	全中文课程	部分收费	视频					WTY
+淘课网				http://www.taoke.com/					中国	全中文课程	全部收费	视频					WTY
+51CTO学院			http://edu.51cto.com/course/courseList/id-all.html	中国	全中文课程	全部收费	视频		IT培训机构		ZQ
+优学				http://xue.ujiuye.com/					中国	全中文课程	部分收费	视频		IT培训机构		ZQ
+YY教育				http://edu.yy.com/					中国	全中文课程	全部收费	视频		IT培训机构		ZQ
+麦子学院			http://www.maiziedu.com/course/				中国	全中文课程	全部收费	视频		IT培训机构		ZQ
+软酷网				http://www.ruanko.com/					中国	全中文课程	部分收费	视频		IT培训机构		ZQ
+课课家教育			http://www.kokojia.com/list/2.html			中国	全中文课程	全部收费	视频		IT培训机构		ZQ
+青海大学慕课平台		http://qhu.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+三亚学院慕课平台		http://sanya.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+四川旅游学院慕课平台		http://sctu.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+山东商业职业技术学院慕课平台	http://sict.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+汉口学院慕课平台		http://hkxy.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+成都东软学院慕课平台		http://nsu.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+广西民族大学慕课平台		http://gxun.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+东北大学慕课平台		http://neu.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+成都学院（成都大学）慕课平台	http://cdu.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+西安交通大学慕课平台		http://xjtu.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+兰州财经大学慕课平台		http://lzufe.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+江西财经大学慕课平台		http://mooc.jxufe.edu.cn/				中国	全中文课程	免费		视频		学院平台		TYW
+海南大学慕课平台		http://hainu.xuetangx.com/				中国	全中文课程	免费		视频		学院平台		TYW
+
+-----------------------------------------------------------------------以上2015.12.01----------------------------------------------------------------------------------------------------

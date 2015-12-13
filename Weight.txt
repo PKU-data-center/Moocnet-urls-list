@@ -1,0 +1,57 @@
+名称	网址	与项目相关指数（是否推荐优先爬取1-10分）	网站注册情况	教学内容/适应人群	若网站与项目无关请标注	具体收费情况
+清华大学慕课平台	http://tsinghua.xuetangx.com/	10	已注册	大学生		免费
+复旦大学慕课平台	http://fudan.xuetangx.com/	10	已注册	大学生		免费
+南京大学慕课平台	http://nju.xuetangx.com/	10	已注册	大学生		免费
+中国科学技术大学慕课平台	http://moocs.ustc.edu.cn/	10	已注册	大学生		免费
+青海大学慕课平台	http://qhu.xuetangx.com/	8	已注册	大学生		免费
+三亚学院慕课平台	http://sanya.xuetangx.com/	7	已注册	大学生		免费
+四川旅游学院慕课平台	http://sctu.xuetangx.com/	8	已注册	大学生		免费
+山东商业职业技术学院慕课平台	http://sict.xuetangx.com/	6	已注册	大学生		免费
+汉口学院慕课平台	http://hkxy.xuetangx.com/	8	已注册	大学生		免费
+成都东软学院慕课平台	http://nsu.xuetangx.com/	7	已注册	大学生		免费
+广西民族大学慕课平台	http://gxun.xuetangx.com/	7	已注册	大学生		免费
+东北大学慕课平台	http://neu.xuetangx.com/	8	已注册	大学生		免费
+成都学院（成都大学）慕课平台	http://cdu.xuetangx.com/	7	已注册	大学生		免费
+西安交通大学慕课平台	http://xjtu.xuetangx.com/	10	已注册	大学生		免费
+兰州财经大学慕课平台	http://lzufe.xuetangx.com/	9	已注册	大学生		免费
+江西财经大学慕课平台	http://mooc.jxufe.edu.cn/	8	已注册	大学生		免费
+海南大学慕课平台	http://hainu.xuetangx.com/	8	已注册	大学生		免费
+尚德教育 	http://www.sunland.org.cn/index.htm	5	未注册	成人自考		收费
+北风网 	http://www.ibeifeng.com/index.html	8	已注册	IT人员		收费
+跟谁学 	https://i.genshuixue.com/login	5	未注册	/		/
+奥鹏远程教育中心	http://www.open.com.cn/	9	已注册	大学生		收费
+万学教育 	http://www.wanxue.cn/	5	未注册	大学生		收费
+百度传课网	http://www.chuanke.com/	10	百度账号登陆	各年龄阶段人群		免费
+复兰科技 	http://www.k6kt.com/	4	未注册	中小学		免费
+帮考网	http://www.cnbkw.com/	5	未注册	大学生		收费
+北京四中网校 	http://www.etiantian.com/	9	已注册	中学生		免费
+北京全景赛斯科技发展有限公司 	http://www.gbviewtech.com/index.html	2	不需要注册	各年龄阶段人群		收费
+北京网梯科技发展有限公司	http://www.whaty.com/cms/cpjyxl/1/118964.htm	3	不需要注册	成人		收费
+华企商学院 	http://v3.hq88.com/login_gotoLogin.do	4	未注册	商科课程		收费
+开课吧 	http://www.kaikeba.com/	5	未注册	企业人士		免费
+北京微学科技有限公司	http://www.wechatlearning.com/	3	不需要注册	各年龄阶段人群		免费
+能龙教育 	http://www.nenglong.com/?UDT=1449240460633	2	不需要注册	各年龄阶段人群		免费
+兜行 	http://mworking.cn/badou/www/index.html	5	未注册	各年龄阶段人群		免费
+爱尔信教育 	http://www.aierxin.org/	7	未注册	会计		收费
+新课程网	www.chinaxinkecheng.cn	6	已注册	中小学 		部分免费
+第一视频教程网	video.1kejian.com	8	不需注册	综合		免费
+12317网	xuexi.12371.cn	2	未注册	党教育		免费
+公开课	www.openke.net	8	已注册	综合		免费
+第一学习网	http://www.xxw001.com/list.php?id=1	7	已注册	综合		免费+vip
+我要自学网	www.51zxw.net	6	已注册	综合		部分免费
+家里蹲大学	www.jialidun.com	6	无法注册	考试类		部分免费
+敏学网	www.minxue.net	2	未注册	考试类	文字和视频下载信息	免费
+视频教程网	www.spjc8.com	5	无需注册	综合		免费
+挖知课堂	www.wazhi.com.cn	6	无需注册	综合		免费
+博视网教育在线	www.bosw.net	6	无需注册	综合		免费
+58免费学习网	www.58xuexi.com	7	已注册	技能类		部分免费
+驾培视频学习网	dtl.e-trans.com.cn	1	无需注册	考驾照	考驾照	免费
+听课网	www.tingke8.com	7	无需注册	中小学		免费
+西东视频教程网	xidongv.com	5	无需注册	中小学	从其他视频网站收集	免费
+星火视频!	www.21edu8.com	7	无需注册	综合		免费
+同桌100学习网	www.tongzhuo100.com	5	已注册	中小学		部分免费
+爱酷学习网是	www.icoolxue.com	5	已注册	技能类		收费
+西门子视频学习中心	http://www.ad.siemens.com.cn/service/elearning/cn/	2	未注册		及少量指导视频	免费
+教程之家	www.jczhijia.com	6	已注册	综合		试看+vip
+环球网校	www.edu24ol.com	7	未注册	需电话号码		部分免费
+黄冈中学网校	www.huanggao.net	5	无法注册			试看+付费

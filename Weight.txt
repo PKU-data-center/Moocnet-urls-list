@@ -1,57 +1,167 @@
-名称	网址	与项目相关指数（是否推荐优先爬取1-10分）	网站注册情况	教学内容/适应人群	若网站与项目无关请标注	具体收费情况
-清华大学慕课平台	http://tsinghua.xuetangx.com/	10	已注册	大学生		免费
-复旦大学慕课平台	http://fudan.xuetangx.com/	10	已注册	大学生		免费
-南京大学慕课平台	http://nju.xuetangx.com/	10	已注册	大学生		免费
-中国科学技术大学慕课平台	http://moocs.ustc.edu.cn/	10	已注册	大学生		免费
-青海大学慕课平台	http://qhu.xuetangx.com/	8	已注册	大学生		免费
-三亚学院慕课平台	http://sanya.xuetangx.com/	7	已注册	大学生		免费
-四川旅游学院慕课平台	http://sctu.xuetangx.com/	8	已注册	大学生		免费
-山东商业职业技术学院慕课平台	http://sict.xuetangx.com/	6	已注册	大学生		免费
-汉口学院慕课平台	http://hkxy.xuetangx.com/	8	已注册	大学生		免费
-成都东软学院慕课平台	http://nsu.xuetangx.com/	7	已注册	大学生		免费
-广西民族大学慕课平台	http://gxun.xuetangx.com/	7	已注册	大学生		免费
-东北大学慕课平台	http://neu.xuetangx.com/	8	已注册	大学生		免费
-成都学院（成都大学）慕课平台	http://cdu.xuetangx.com/	7	已注册	大学生		免费
-西安交通大学慕课平台	http://xjtu.xuetangx.com/	10	已注册	大学生		免费
-兰州财经大学慕课平台	http://lzufe.xuetangx.com/	9	已注册	大学生		免费
-江西财经大学慕课平台	http://mooc.jxufe.edu.cn/	8	已注册	大学生		免费
-海南大学慕课平台	http://hainu.xuetangx.com/	8	已注册	大学生		免费
-尚德教育 	http://www.sunland.org.cn/index.htm	5	未注册	成人自考		收费
-北风网 	http://www.ibeifeng.com/index.html	8	已注册	IT人员		收费
-跟谁学 	https://i.genshuixue.com/login	5	未注册	/		/
-奥鹏远程教育中心	http://www.open.com.cn/	9	已注册	大学生		收费
-万学教育 	http://www.wanxue.cn/	5	未注册	大学生		收费
-百度传课网	http://www.chuanke.com/	10	百度账号登陆	各年龄阶段人群		免费
-复兰科技 	http://www.k6kt.com/	4	未注册	中小学		免费
-帮考网	http://www.cnbkw.com/	5	未注册	大学生		收费
-北京四中网校 	http://www.etiantian.com/	9	已注册	中学生		免费
-北京全景赛斯科技发展有限公司 	http://www.gbviewtech.com/index.html	2	不需要注册	各年龄阶段人群		收费
-北京网梯科技发展有限公司	http://www.whaty.com/cms/cpjyxl/1/118964.htm	3	不需要注册	成人		收费
-华企商学院 	http://v3.hq88.com/login_gotoLogin.do	4	未注册	商科课程		收费
-开课吧 	http://www.kaikeba.com/	5	未注册	企业人士		免费
-北京微学科技有限公司	http://www.wechatlearning.com/	3	不需要注册	各年龄阶段人群		免费
-能龙教育 	http://www.nenglong.com/?UDT=1449240460633	2	不需要注册	各年龄阶段人群		免费
-兜行 	http://mworking.cn/badou/www/index.html	5	未注册	各年龄阶段人群		免费
-爱尔信教育 	http://www.aierxin.org/	7	未注册	会计		收费
-新课程网	www.chinaxinkecheng.cn	6	已注册	中小学 		部分免费
-第一视频教程网	video.1kejian.com	8	不需注册	综合		免费
-12317网	xuexi.12371.cn	2	未注册	党教育		免费
-公开课	www.openke.net	8	已注册	综合		免费
-第一学习网	http://www.xxw001.com/list.php?id=1	7	已注册	综合		免费+vip
-我要自学网	www.51zxw.net	6	已注册	综合		部分免费
-家里蹲大学	www.jialidun.com	6	无法注册	考试类		部分免费
-敏学网	www.minxue.net	2	未注册	考试类	文字和视频下载信息	免费
-视频教程网	www.spjc8.com	5	无需注册	综合		免费
-挖知课堂	www.wazhi.com.cn	6	无需注册	综合		免费
-博视网教育在线	www.bosw.net	6	无需注册	综合		免费
-58免费学习网	www.58xuexi.com	7	已注册	技能类		部分免费
-驾培视频学习网	dtl.e-trans.com.cn	1	无需注册	考驾照	考驾照	免费
-听课网	www.tingke8.com	7	无需注册	中小学		免费
-西东视频教程网	xidongv.com	5	无需注册	中小学	从其他视频网站收集	免费
-星火视频!	www.21edu8.com	7	无需注册	综合		免费
-同桌100学习网	www.tongzhuo100.com	5	已注册	中小学		部分免费
-爱酷学习网是	www.icoolxue.com	5	已注册	技能类		收费
-西门子视频学习中心	http://www.ad.siemens.com.cn/service/elearning/cn/	2	未注册		及少量指导视频	免费
-教程之家	www.jczhijia.com	6	已注册	综合		试看+vip
-环球网校	www.edu24ol.com	7	未注册	需电话号码		部分免费
-黄冈中学网校	www.huanggao.net	5	无法注册			试看+付费
+名称					网址					与项目相关指数（是否推荐优先爬取1-10分）	网站注册情况	教学内容/适应人群	若网站与项目无关请标注	具体收费情况
+清华大学慕课平台			http://tsinghua.xuetangx.com/	10	已注册	大学生		免费
+复旦大学慕课平台			http://fudan.xuetangx.com/	10	已注册	大学生		免费
+南京大学慕课平台			http://nju.xuetangx.com/	10	已注册	大学生		免费
+中国科学技术大学慕课平台		http://moocs.ustc.edu.cn/	10	已注册	大学生		免费
+青海大学慕课平台			http://qhu.xuetangx.com/	8	已注册	大学生		免费
+三亚学院慕课平台			http://sanya.xuetangx.com/	7	已注册	大学生		免费
+四川旅游学院慕课平台			http://sctu.xuetangx.com/	8	已注册	大学生		免费
+山东商业职业技术学院慕课平台		http://sict.xuetangx.com/	6	已注册	大学生		免费
+汉口学院慕课平台			http://hkxy.xuetangx.com/	8	已注册	大学生		免费
+成都东软学院慕课平台			http://nsu.xuetangx.com/	7	已注册	大学生		免费
+广西民族大学慕课平台			http://gxun.xuetangx.com/	7	已注册	大学生		免费
+东北大学慕课平台			http://neu.xuetangx.com/	8	已注册	大学生		免费
+成都学院（成都大学）慕课平台		http://cdu.xuetangx.com/	7	已注册	大学生		免费
+西安交通大学慕课平台			http://xjtu.xuetangx.com/	10	已注册	大学生		免费
+兰州财经大学慕课平台			http://lzufe.xuetangx.com/	9	已注册	大学生		免费
+江西财经大学慕课平台			http://mooc.jxufe.edu.cn/	8	已注册	大学生		免费
+海南大学慕课平台			http://hainu.xuetangx.com/	8	已注册	大学生		免费
+尚德教育 				http://www.sunland.org.cn/index.htm	5	未注册	成人自考		收费
+北风网 					http://www.ibeifeng.com/index.html	8	已注册	IT人员		收费
+跟谁学 					https://i.genshuixue.com/login	5	未注册	/		/
+奥鹏远程教育中心			http://www.open.com.cn/ 	9	已注册	大学生		收费
+万学教育 				http://www.wanxue.cn/	        5	未注册	大学生		收费
+百度传课网				http://www.chuanke.com/	       10	百度账号登陆	各年龄阶段人群		免费
+复兰科技 				http://www.k6kt.com/	        4	未注册	中小学		免费
+帮考网					http://www.cnbkw.com/        	5	未注册	大学生		收费
+北京四中网校 				http://www.etiantian.com/	9	已注册	中学生		免费
+北京全景赛斯科技发展有限公司 		http://www.gbviewtech.com/index.html	2	不需要注册	各年龄阶段人群		收费
+北京网梯科技发展有限公司		http://www.whaty.com/cms/cpjyxl/1/118964.htm	3	不需要注册	成人		收费
+华企商学院 				http://v3.hq88.com/login_gotoLogin.do	4	未注册	商科课程		收费
+开课吧 					http://www.kaikeba.com/	5	未注册	企业人士		免费
+北京微学科技有限公司			http://www.wechatlearning.com/	3	不需要注册	各年龄阶段人群		免费
+能龙教育 				http://www.nenglong.com/?UDT=1449240460633	2	不需要注册	各年龄阶段人群		免费
+兜行 					http://mworking.cn/badou/www/index.html	5	未注册	各年龄阶段人群		免费
+爱尔信教育 				http://www.aierxin.org/	7	未注册	会计		收费
+新课程网				www.chinaxinkecheng.cn	6	已注册	中小学 		部分免费
+第一视频教程网				video.1kejian.com	8	不需注册	综合		免费
+12317网					xuexi.12371.cn	2	未注册	党教育		免费
+公开课					www.openke.net	8	已注册	综合		免费
+第一学习网				http://www.xxw001.com/list.php?id=1	7	已注册	综合		免费+vip
+我要自学网				www.51zxw.net	6	已注册	综合		部分免费
+家里蹲大学				www.jialidun.com	6	无法注册	考试类		部分免费
+敏学网					www.minxue.net	2	未注册	考试类	文字和视频下载信息	免费
+视频教程网				www.spjc8.com	5	无需注册	综合		免费
+挖知课堂				www.wazhi.com.cn	6	无需注册	综合		免费
+博视网教育在线				www.bosw.net	6	无需注册	综合		免费
+58免费学习网				www.58xuexi.com	7	已注册	技能类		部分免费
+驾培视频学习网				dtl.e-trans.com.cn	1	无需注册	考驾照	考驾照	免费
+听课网					www.tingke8.com	7	无需注册	中小学		免费
+西东视频教程网				xidongv.com	5	无需注册	中小学	从其他视频网站收集	免费
+星火视频!				www.21edu8.com	7	无需注册	综合		免费
+同桌100学习网				www.tongzhuo100.com	5	已注册	中小学		部分免费
+爱酷学习网是				www.icoolxue.com	5	已注册	技能类		收费
+西门子视频学习中心			http://www.ad.siemens.com.cn/service/elearning/cn/	2	未注册		及少量指导视频	免费
+教程之家				www.jczhijia.com	6	已注册	综合		试看+vip
+环球网校				www.edu24ol.com	7	未注册	需电话号码		部分免费
+黄冈中学网校				www.huanggao.net	5	无法注册			试看+付费
+育网平台				http://www.ewant.org/coopwork.php	10
+好大学在线				http://www.cnmooc.org/home/index.mooc	10
+mooc学院				http://mooc.guokr.com/	10
+台湾国立清华大学联合mooc平台		http://mooc.et.nthu.edu.tw/	9
+国立师范台湾大学			http://www.moocs.ntnu.edu.tw/sharecourse/general/home	9
+中国教师慕课网				http://www.mooccollege.cn/	9
+亚洲大学mooc平台			http://moocs.asia.edu.tw/sharecourse/general/home/	9
+91淘课网				http://old.91taoke.com/	8
+微课堂					http://www.vko.cn/	7
+简单学习网				http://www.jd100.com/	8
+百度传课				http://www.chuanke.com/	8
+第九课堂				http://www.dijiuke.com/	7
+edx					https://www.edx.org	10
+计蒜客					http://www.jisuanke.com/	9
+国家开放大学				http://www.ouchn.edu.cn/	10
+后盾网					http://bbs.houdunwang.com/	9
+万门大学				http://www.wanmen.org/	10
+饭糕网					http://fangao.geaern.com/	10
+网易云课堂				http://study.163.com/	9
+顶你学堂				www.TopU.com	10
+优课联盟				http://www.uooc.org.cn/	9
+中国职业教育微课程及mooc联盟		http://www.wkclm.com/web/app.php	9
+中国高校计算机教育mooc联盟		http://computer.icourses.cn/	9
+Mooc中国				http://www.mooc.cn/	10
+人卫慕课				http://www.pmphmooc.com/	9
+京师在线				http://mooc.bnu.edu.cn/	9
+高职联盟mooc平台			http://gaozhi.xuetangx.com/#	9
+智慧树					http://www.zhihuishu.com/	9
+医学慕课				http://www.mdmooc.org/	9
+东西部高校课程共享联盟			http://www.wemooc.edu.cn/	9
+中国翻转课堂mooc联盟			http://454824249.genshuixue.com/	9
+成人高校mooc联盟			http://amooc.ouchn.edu.cn/guokaimooc/homepage/common/	9
+栖夏mooc				http://mooc.qxjy.com/	9
+华师慕课（C20联盟）			http://home.c20.org.cn/mooc/	9
+多贝网					http://www.duobei.com/	9
+中国统一教育网				http://www.tongyi.com/	9
+学而思网校				http://www.xueersi.com/	9
+腾讯课堂				http://ke.qq.com/	9
+沪江网校				http://class.hujiang.com/v3/	9
+cc课堂					http://www.cctalk.com/	9
+新东方在线				http://www.koolearn.com/	9
+酷学网					http://www.koo.cn/	9
+淘课网					http://www.taoke.com/	9
+coursera				https://www.coursera.org/	9
+网易公开课				http://open.163.com/	9
+新浪公开课				http://open.sina.com.cn/	9
+好课网					http://www.class.cn/index/open	9
+公开课网				http://www.openke.net/	9
+腾讯公开课				http://v.qq.com/zt2011/open/	9
+搜狐公开课				http://tv.sohu.com/open/	9
+偌达名师				http://qy.thea.cn/gkk/	9
+21CN					http://edu.21cn.com/qy/gkk/	9
+企业公开课				http://gongkaike.9966333.com/	9
+中国公开课央视网			http://opencla.cntv.cn/	9
+网易家居公开课				http://home.163.com/special/course/	9
+爱奇艺公开课				http://www.iqiyi.com/edu/open.html	9
+超星视频				http://video.chaoxing.com/	9
+直线网公开课				http://www.linecg.com/public_class.html	9
+凤凰网公开课				http://v.ifeng.com/gongkaike/	9
+凤凰教育TEDed				http://edu.ifeng.com/jiaoyu/special/ted/	9
+TED					http://www.ted.com/	9
+TEDed					http://ed.ted.com/	9
+课程图谱				http://coursegraph.com/	9
+优酷教育				http://edu.youku.com/	9
+中国大学视频公开课			http://ulive.univs.cn/event/event/template/index/213.shtml	9
+土豆教育				http://zone.tudou.com/jygkk/	9
+刑帅教育				http://gkk.xsteach.com/	9
+新东方教育公开课			http://v.koolearn.com/	9
+Freebuf公开课				http://open.freebuf.com/	9
+天道教育				http://tiandaoedu.com/tdgj/gkk/	9
+药师在线公开课				http://www.51yaoshi.com/gkk/index.shtml#axzz3t9m4aFyS	9
+黑马程序员公开课			http://open.itheima.com/	9
+和讯公开课				http://tv.hexun.com/2011/course/	9
+电驴大全公开课				http://www.verycd.com/base/edu/	9
+常州市公开课				http://www.czedu.gov.cn/list_17_1154.shtml	9
+一大开放式公开课			http://ocw.aca.ntu.edu.tw/ntu-ocw/	9
+中国干部网络学院公开课			http://open.cela.gov.cn/	9
+新东方视频				http://v.xdf.cn/list_7.html	9
+高顿公开课				http://open.gaodun.com/	9
+智联招聘公开课				http://article.zhaopin.com/video/	9
+青岛网络公开课				http://huodong.qtv.com.cn/2013/open/?jdfwkey=kvq0w	9
+华数TV公开课				http://zhuanti.wasu.cn/onPreview/target/1335	9
+海天考研公开课				http://www.htkaoyan.com/GongKaiKe/	9
+腾讯大学				http://daxue.qq.com/	9
+开源力量				http://www.osforce.cn/	9
+白天使			        	http://www.baitianshi.com/	9
+中国大学公开课				http://www.edu.cn/html/opencourse/	9
+百利天下留学公开课			http://v.bailitop.com/	9
+传智播客公开课				http://open.itcast.cn/	9
+21ic					http://open.21ic.com/	9
+决胜网					http://open.juesheng.com/	9
+心血管大讲堂				http://hclub.medlive.cn/	9
+爱课程					http://www.icourses.cn/home/	9
+豆瓣公开课				http://site.douban.com/xcx/	9
+北语慕课				http://video.fy.chaoxing.com/	9
+乐视教育				http://edu.letv.com/	9
+北京大学公开课				http://opencourse.pku.edu.cn/course/opencourse2/	9
+国图公开课				http://open.nlc.cn/	10
+精品课					http://www.jingpinke.com/	9
+PPT公开课				http://www.rrppt.com/	9
+公开课排行				http://gkk.cn/	9
+bilibili公开课				http://www.bilibili.com/video/speech-course-1.html	8
+大师					http://www.aixchina.net/master/	9
+公开课					http://www.gongkaike.tv/	9
+淘宝教育				http://xue.taobao.com/	8
+心江湖					http://edu.xinjianghu.com/	8
+大学生自学网				http://v.dxsbb.com/	9
+PPS公开课				http://v.pps.tv/topic_161327.html	9
+央广公开课				http://edu.cnr.cn/open/	9
+1号教室					http://www.1jiaoshi.com/	8

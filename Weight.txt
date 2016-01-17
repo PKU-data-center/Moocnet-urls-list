@@ -197,116 +197,164 @@ Fenby					http://www.fenby.com/	8	QQ登录	IT类		免费
 
 ---------------------------------------------------------------------以上注册邮箱：zzz_pku@163.com 密码：zzzpku-------------------------------		
 ---------------------------------------------------------------------QQ号码3170210897  密码 zzzpku--------------------------------------------
+实验楼	https://www.shiyanlou.com          	9	qq登陆	IT		会员
+极客学院	http://www.jikexueyuan.com/course/	9	QQ登录	IT		体验+vip
+清华大学磨课师	http://mooc.nthu.edu.tw/sharecourse/	7	邮箱2	大学		付费
+华文慕课	www.chinesemooc.org/	9	QQ登录	大学		免费
+学堂在线	www.xuetangx.com/courses	9	QQ登录	大学		免费
+中国大学MOOC	www.icourse163.org/	9	QQ登录	大学		免费
+慕课网	www.imooc.com	9	QQ登录	大学		完全免费
+51CTO学院	http://edu.51cto.com/course/courseList/id-all.html	6	用户名2	IT		付费
+优学	http://xue.ujiuye.com/	7	需手机验证码	IT职业		部分免费
+YY教育	http://edu.yy.com/	8	需手机验证码	全品类		部分免费
+麦子学院	http://www.maiziedu.com/course/	8	邮箱2	IT类	密码zzzpkuzzzpku	部分免费
+软酷网	http://www.ruanko.com/	4	需手机验证码	职业教育		收费
+课课家教育	http://www.kokojia.com/list/2.html	8	QQ登录	IT类		收费
+ABC360	http://www.abc360.com/	6	需手机验证码英语教育			部分免费
+百度营销大学	http://edu.baidu.com/elearning.html	4	邮箱2	营销		限时免费
+宝宝树	http://www.babytree.com/	3	需手机验证码幼儿	幼儿		部分免费
+北风网	http://www.ibeifeng.com/	8	QQ登录	IT类		收费
+北京四中网校	http://www.etiantian.com/	3	需手机验证码	中学		部分免费
+德智教育	http://www.dezhi.com/	4	QQ登录	中学		限时免费
+东奥会计在线	http://www.dongao.com/	4	需手机验证码会计			收费
+e学大	http://www.exueda.com/	4	需手机验证码中学			收费
+233网校	http://www.233.com/	5	QQ登录	考试类		免费体验
+飞盒教育	http://www.class.cn/	7	QQ登录	综合		部分免费
+粉笔网	http://ke.fenbi.com/	6	QQ登录	考试类		部分免费
+Fenby	http://www.fenby.com/	8	QQ登录	IT类		免费
+高顿网校	http://www.gaodun.com/	8	QQ登录	IT类		
+花朵网	http://wcex.huadoo.com/	5	需手机验证码	金融类		体验+vip
+华图网校	http://v.huatu.com/	5	QQ登录	公务员考试等		收费
+环球网校	www.edu24ol.com	6	QQ登录	考试类		部分免费
+黄冈中学网校	www.huanggao.net	5	需学习卡注册中学			收费
+杰森英语	www.jason-english.cn	6	需手机验证码英语教育			免费体验
+菁优网	www.jyeoo.com	3	邮箱2	中学		免费体验
+开课吧	hku.kaikeba.com				网站出错误	
+考试吧	www.exam8.com	3	QQ登录	考试类		部分免费
+课后网	www.kehou.com	4	需手机验证码中学			免费体验
+酷学习网	www.kuxuexi.com	4	未注册	中学		免费体验
+快乐学堂	www.91118.com	3	需手机验证码亲子			免费体验
+另客网	www.links123.com	5	邮箱2	英语教育		部分免费
+萝卜网	www.luobo360.com	5	QQ登录	职业教育		部分免费
+奇迹曼特	www.cgmentor.cn	4	需手机验证码设计			收费
+鲨鱼公园	www.sharkpark.cn	3	需手机验证码	幼儿		收费
+尚德机构	www.sunland.org.cn	4	需手机验证码	职考类		部分免费
+说客英语	www.talk915.com	3	需手机验证码	少儿英语		免费体验
+麦课通识学院	www.mycourse.cn	5	QQ登录	职场教育		收费
+明师教育	www.mingshiedu.com	3	需手机验证码	中小学		会员
+拼课网	www.pkedu.com	3	需手机验证码	中学		部分免费
+平南云学习	www.pingnanlearning.com				宣传网站	
+						
+育网平台	http://www.ewant.org/coopwork.php	6	邮箱2	大学		部分免费
+好大学在线	http://www.cnmooc.org/home/index.mooc	10	邮箱2	大学		预约免费
+mooc学院	http://mooc.guokr.com/	10	QQ登录	大学		免费
+台湾国立清华大学联合mooc平台	http://mooc.et.nthu.edu.tw/	9	邮箱2	大学		部分免费
+国立师范台湾大学	http://www.moocs.ntnu.edu.tw/sharecourse/general/home	9	邮箱2	大学		部分免费
+中国教师慕课网	http://www.mooccollege.cn/	9	无需注册	大学		免费
+亚洲大学mooc平台	http://moocs.asia.edu.tw/sharecourse/general/home/	9	邮箱2	大学		免费
+91淘课网	http://old.91taoke.com/	8			中学课程	
+微课堂	http://www.vko.cn/	7	QQ登录	中学	中学课程	付费
+简单学习网	http://www.jd100.com/	8			中学课程	
+百度传课	http://www.chuanke.com/	8	手机验证码			
+第九课堂	http://www.dijiuke.com/	7				
+edx	https://www.edx.org	10	邮箱2	大学		部分免费
+计蒜客	http://www.jisuanke.com/	9	邮箱2	大学		免费
+国家开放大学	http://www.ouchn.edu.cn/	10	未开放注册	大学		部分免费
+后盾网	http://bbs.houdunwang.com/	9	手机验证码	IT类		部分免费
+万门大学	http://www.wanmen.org/	10	QQ登录	大学		部分免费
+饭糕网	http://fangao.geaern.com/	10			绘画教学	
+网易云课堂	http://study.163.com/	9	邮箱2	大学综合		部分免费
+顶你学堂	www.TopU.com	10	QQ登录	职业教育		部分免费
+优课联盟	http://www.uooc.org.cn/	8	邮箱2	综合		付费
+中国职业教育微课程及mooc联盟	http://www.wkclm.com/web/app.php	9				
+中国高校计算机教育mooc联盟	http://computer.icourses.cn/	9	QQ登录	大学		免费
+Mooc中国	http://www.mooc.cn/	10	无需注册	大学		免费
+人卫慕课	http://www.pmphmooc.com/	9	邮箱2	医学		部分免费
+京师在线	http://mooc.bnu.edu.cn/	9	邮箱2	大学		部分免费
+高职联盟mooc平台	http://gaozhi.xuetangx.com/#	9	邮箱2	大学		部分免费
+智慧树	http://www.zhihuishu.com/	9	手机验证码	职业教育		部分免费
+医学慕课	http://www.mdmooc.org/	9	手机验证码	医学教育		部分免费
+东西部高校课程共享联盟	http://www.wemooc.edu.cn/	9	手机验证码			部分免费
+中国翻转课堂mooc联盟	http://454824249.genshuixue.com/	9	手机验证码	综合		部分免费
+成人高校mooc联盟	http://amooc.ouchn.edu.cn/guokaimooc/homepage/common/	9	用户名2	大学综合	密码ZZZpku000	部分免费
+栖夏mooc	http://mooc.qxjy.com/	9			中学课程	
+华师慕课（C20联盟）	http://home.c20.org.cn/mooc/	6	邮箱2	中学，人文社会		
+多贝网	http://www.duobei.com/	9	QQ登录	IT		免费
+中国统一教育网	http://www.tongyi.com/	1		中学教育		
+学而思网校	http://www.xueersi.com/	1		中学教育		
+腾讯课堂	http://ke.qq.com/	9	QQ登录	综合		部分免费
+沪江网校	http://class.hujiang.com/v3/	9	QQ登录	综合		部分免费
+cc课堂	http://www.cctalk.com/	9	QQ登录	语言教育		部分免费
+新东方在线	http://www.koolearn.com/	9	QQ登录	综合		部分免费
+酷学网	http://www.koo.cn/	9	QQ登录	考试类		部分免费
+淘课网	http://www.taoke.com/	9	手机验证码	管理培训		付费
+coursera	https://www.coursera.org/	9	邮箱2			
+网易公开课	http://open.163.com/	9	邮箱2	公开课		免费
+新浪公开课	http://open.sina.com.cn/	9	邮箱2	公开课		免费
+好课网	http://www.class.cn/index/open	9	无法注册	公开课		免费
+公开课网	http://www.openke.net/	9	用户名2	大学综合		免费体验+付费
+腾讯公开课	http://v.qq.com/zt2011/open/	9	QQ登录	公开课		免费
+搜狐公开课	http://tv.sohu.com/open/	9	QQ登录	视频站		免费
+偌达名师	http://qy.thea.cn/gkk/	9	手机验证码	企业培训		付费
+21CN	http://edu.21cn.com/qy/gkk/	9			和上一个是同一个网站	
+企业公开课	http://gongkaike.9966333.com/	9			非在线课程	
+中国公开课央视网	http://opencla.cntv.cn/	9	QQ登录	综合		免费
+网易家居公开课	http://home.163.com/special/course/	9	邮箱2登录	家具公开课		免费
+爱奇艺公开课	http://www.iqiyi.com/edu/open.html	9	手机验证码	公开课		免费
+超星视频	http://video.chaoxing.com/	9	邮箱2	人文社会		免费
+直线网公开课	http://www.linecg.com/public_class.html	9	用户名2	综合		免费
+凤凰网公开课	http://v.ifeng.com/gongkaike/	9	QQ登录	公开课		免费
+凤凰教育TEDed	http://edu.ifeng.com/jiaoyu/special/ted/	9	QQ登录	公开课		免费
+TED	http://www.ted.com/	9	未注册	TED官网		免费
+TEDed	http://ed.ted.com/	9	无法注册	TED公开课		免费
+课程图谱	http://coursegraph.com/	9	邮箱2	公开课		免费
+优酷教育	http://edu.youku.com/	9	QQ登录	综合		免费
+中国大学视频公开课	http://ulive.univs.cn/event/event/template/index/213.shtml	9	QQ登录	大学教育		免费
+土豆教育	http://zone.tudou.com/jygkk/	9	QQ登录	公开课		免费
+刑帅教育	http://gkk.xsteach.com/	9	邮箱2	IT设计		部分免费
+新东方教育公开课	http://v.koolearn.com/	9	QQ登录	综合		部分免费
+Freebuf公开课	http://open.freebuf.com/	9	QQ登录	黑客与漏洞		部分免费
+天道教育	http://tiandaoedu.com/tdgj/gkk/	9	邮箱2登录	公开课留学		部分免费
+药师在线公开课	http://www.51yaoshi.com/gkk/index.shtml#axzz3t9m4aFyS	5	邮箱2登录	医药知识		部分免费
+黑马程序员公开课	http://open.itheima.com/	9	QQ登录	IT类		部分免费
+和讯公开课	http://tv.hexun.com/2011/course/	9	QQ登录	公开课		免费
+电驴大全公开课	http://www.verycd.com/base/edu/	9	QQ微博登录	公开课		免费
+常州市公开课	http://www.czedu.gov.cn/list_17_1154.shtml	9			中学教育	
+一大开放式公开课	http://ocw.aca.ntu.edu.tw/ntu-ocw/	9			未能打开视频课程	
+中国干部网络学院公开课	http://open.cela.gov.cn/	9	限制注册	干部培训		免费
+新东方视频	http://v.xdf.cn/list_7.html	9	手机验证码	公开课		免费
+高顿公开课	http://open.gaodun.com/	6	手机验证码	金融类培训		部分免费
+智联招聘公开课	http://article.zhaopin.com/video/	9	QQ登录	职场培训		免费
+青岛网络公开课	http://huodong.qtv.com.cn/2013/open/?jdfwkey=kvq0w	9			中学教育	
+华数TV公开课	http://zhuanti.wasu.cn/onPreview/target/1335	9			网页打不开	
+海天考研公开课	http://www.htkaoyan.com/GongKaiKe/	7	手机验证码	考研培训		部分免费
+腾讯大学	http://daxue.qq.com/	7	QQ登录	创业管理类讲座		部分免费
+开源力量	http://www.osforce.cn/	9	QQ登录	IT类		公开课+付费
+白天使	http://www.baitianshi.com/	9			医学教育	
+中国大学公开课	http://www.edu.cn/html/opencourse/	9			公开课导航	
+百利天下留学公开课	http://v.bailitop.com/	9			留学服务网站	
+传智播客公开课	http://open.itcast.cn/	10	QQ登录	IT类		免费
+21ic	http://open.21ic.com/	10	手机验证码	IT类		免费
+决胜网	http://open.juesheng.com/	9	QQ	留学考试类		免费
+心血管大讲堂	http://hclub.medlive.cn/	9			医学教育	
+爱课程	http://www.icourses.cn/home/	9	邮箱2登录	大学教育		部分免费
+豆瓣公开课	http://site.douban.com/xcx/	9			非在线课程	
+北语慕课	http://video.fy.chaoxing.com/	9			网站显示未开通	
+乐视教育	http://edu.letv.com/	9	QQ登录	综合		免费
+北京大学公开课	http://opencourse.pku.edu.cn/course/opencourse2/	10	未开放注册	大学		免费
+国图公开课	http://open.nlc.cn/	9	QQ登录	大学		免费
+精品课	http://www.jingpinke.com/	10	邮箱2	综合		免费
+PPT公开课	http://www.rrppt.com/	9	邮箱2	ppt教育	密码：kadE0PNwDEh	免费
+公开课排行	http://gkk.cn/	9	未开放注册	公开课		免费
+bilibili公开课	http://www.bilibili.com/video/speech-course-1.html	8	QQ登录	综合		免费
+大师	http://www.aixchina.net/master/	10	手机验证码	公开课		免费
+公开课	http://www.gongkaike.tv/	9	无需注册	公开课		免费
+淘宝教育	http://xue.taobao.com/	8	手机验证码	综合		部分免费
+心江湖	http://edu.xinjianghu.com/	8	QQ登录	讲座		免费体验+付费
+大学生自学网	http://v.dxsbb.com/	9	未找到注册窗口	综合		免费
+PPS公开课	http://v.pps.tv/topic_161327.html	9	手机验证码	综合		免费+会员
+央广公开课	http://edu.cnr.cn/open/	9	用户名2	社会人文		免费
+1号教室	http://www.1jiaoshi.com/	8			中学教育	
+						
 
-
-育网平台				http://www.ewant.org/coopwork.php	10
-好大学在线				http://www.cnmooc.org/home/index.mooc	10
-mooc学院				http://mooc.guokr.com/	10
-台湾国立清华大学联合mooc平台		http://mooc.et.nthu.edu.tw/	9
-国立师范台湾大学			http://www.moocs.ntnu.edu.tw/sharecourse/general/home	9
-中国教师慕课网				http://www.mooccollege.cn/	9
-亚洲大学mooc平台			http://moocs.asia.edu.tw/sharecourse/general/home/	9
-91淘课网				http://old.91taoke.com/	8
-微课堂					http://www.vko.cn/	7
-简单学习网				http://www.jd100.com/	8
-百度传课				http://www.chuanke.com/	8
-第九课堂				http://www.dijiuke.com/	7
-edx					https://www.edx.org	10
-计蒜客					http://www.jisuanke.com/	9
-国家开放大学				http://www.ouchn.edu.cn/	10
-后盾网					http://bbs.houdunwang.com/	9
-万门大学				http://www.wanmen.org/	10
-饭糕网					http://fangao.geaern.com/	10
-网易云课堂				http://study.163.com/	9
-顶你学堂				www.TopU.com	10
-优课联盟				http://www.uooc.org.cn/	9
-中国职业教育微课程及mooc联盟		http://www.wkclm.com/web/app.php	9
-中国高校计算机教育mooc联盟		http://computer.icourses.cn/	9
-Mooc中国				http://www.mooc.cn/	10
-人卫慕课				http://www.pmphmooc.com/	9
-京师在线				http://mooc.bnu.edu.cn/	9
-高职联盟mooc平台			http://gaozhi.xuetangx.com/#	9
-智慧树					http://www.zhihuishu.com/	9
-医学慕课				http://www.mdmooc.org/	9
-东西部高校课程共享联盟			http://www.wemooc.edu.cn/	9
-中国翻转课堂mooc联盟			http://454824249.genshuixue.com/	9
-成人高校mooc联盟			http://amooc.ouchn.edu.cn/guokaimooc/homepage/common/	9
-栖夏mooc				http://mooc.qxjy.com/	9
-华师慕课（C20联盟）			http://home.c20.org.cn/mooc/	9
-多贝网					http://www.duobei.com/	9
-中国统一教育网				http://www.tongyi.com/	9
-学而思网校				http://www.xueersi.com/	9
-腾讯课堂				http://ke.qq.com/	9
-沪江网校				http://class.hujiang.com/v3/	9
-cc课堂					http://www.cctalk.com/	9
-新东方在线				http://www.koolearn.com/	9
-酷学网					http://www.koo.cn/	9
-淘课网					http://www.taoke.com/	9
-coursera				https://www.coursera.org/	9
-网易公开课				http://open.163.com/	9
-新浪公开课				http://open.sina.com.cn/	9
-好课网					http://www.class.cn/index/open	9
-公开课网				http://www.openke.net/	9
-腾讯公开课				http://v.qq.com/zt2011/open/	9
-搜狐公开课				http://tv.sohu.com/open/	9
-偌达名师				http://qy.thea.cn/gkk/	9
-21CN					http://edu.21cn.com/qy/gkk/	9
-企业公开课				http://gongkaike.9966333.com/	9
-中国公开课央视网			http://opencla.cntv.cn/	9
-网易家居公开课				http://home.163.com/special/course/	9
-爱奇艺公开课				http://www.iqiyi.com/edu/open.html	9
-超星视频				http://video.chaoxing.com/	9
-直线网公开课				http://www.linecg.com/public_class.html	9
-凤凰网公开课				http://v.ifeng.com/gongkaike/	9
-凤凰教育TEDed				http://edu.ifeng.com/jiaoyu/special/ted/	9
-TED					http://www.ted.com/	9
-TEDed					http://ed.ted.com/	9
-课程图谱				http://coursegraph.com/	9
-优酷教育				http://edu.youku.com/	9
-中国大学视频公开课			http://ulive.univs.cn/event/event/template/index/213.shtml	9
-土豆教育				http://zone.tudou.com/jygkk/	9
-刑帅教育				http://gkk.xsteach.com/	9
-新东方教育公开课			http://v.koolearn.com/	9
-Freebuf公开课				http://open.freebuf.com/	9
-天道教育				http://tiandaoedu.com/tdgj/gkk/	9
-药师在线公开课				http://www.51yaoshi.com/gkk/index.shtml#axzz3t9m4aFyS	9
-黑马程序员公开课			http://open.itheima.com/	9
-和讯公开课				http://tv.hexun.com/2011/course/	9
-电驴大全公开课				http://www.verycd.com/base/edu/	9
-常州市公开课				http://www.czedu.gov.cn/list_17_1154.shtml	9
-一大开放式公开课			http://ocw.aca.ntu.edu.tw/ntu-ocw/	9
-中国干部网络学院公开课			http://open.cela.gov.cn/	9
-新东方视频				http://v.xdf.cn/list_7.html	9
-高顿公开课				http://open.gaodun.com/	9
-智联招聘公开课				http://article.zhaopin.com/video/	9
-青岛网络公开课				http://huodong.qtv.com.cn/2013/open/?jdfwkey=kvq0w	9
-华数TV公开课				http://zhuanti.wasu.cn/onPreview/target/1335	9
-海天考研公开课				http://www.htkaoyan.com/GongKaiKe/	9
-腾讯大学				http://daxue.qq.com/	9
-开源力量				http://www.osforce.cn/	9
-白天使			        	http://www.baitianshi.com/	9
-中国大学公开课				http://www.edu.cn/html/opencourse/	9
-百利天下留学公开课			http://v.bailitop.com/	9
-传智播客公开课				http://open.itcast.cn/	9
-21ic					http://open.21ic.com/	9
-决胜网					http://open.juesheng.com/	9
-心血管大讲堂				http://hclub.medlive.cn/	9
-爱课程					http://www.icourses.cn/home/	9
-豆瓣公开课				http://site.douban.com/xcx/	9
-北语慕课				http://video.fy.chaoxing.com/	9
-乐视教育				http://edu.letv.com/	9
-北京大学公开课				http://opencourse.pku.edu.cn/course/opencourse2/	9
-国图公开课				http://open.nlc.cn/	10
-精品课					http://www.jingpinke.com/	9
-PPT公开课				http://www.rrppt.com/	9
-公开课排行				http://gkk.cn/	9
-bilibili公开课				http://www.bilibili.com/video/speech-course-1.html	8
-大师					http://www.aixchina.net/master/	9
-公开课					http://www.gongkaike.tv/	9
-淘宝教育				http://xue.taobao.com/	8
-心江湖					http://edu.xinjianghu.com/	8
-大学生自学网				http://v.dxsbb.com/	9
-PPS公开课				http://v.pps.tv/topic_161327.html	9
-央广公开课				http://edu.cnr.cn/open/	9
-1号教室					http://www.1jiaoshi.com/	8
 

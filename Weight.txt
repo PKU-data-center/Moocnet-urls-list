@@ -351,7 +351,45 @@ bilibili公开课	http://www.bilibili.com/video/speech-course-1.html	8	QQ登录	综合	
 PPS公开课	http://v.pps.tv/topic_161327.html	9	手机验证码	综合		免费+会员
 央广公开课	http://edu.cnr.cn/open/	9	用户名2	社会人文		免费
 1号教室	http://www.1jiaoshi.com/	8			中学教育	
+理想视频教程	www.mba518.com	8	用户名zzzpku	综合		部分免费
+第一视频网	http://video.1kejian.com/	8	未找到注册窗口	综合		免费
+硅谷动力	www.enet.com.cn	9	无需注册	IT类		免费
+c语言中文网	c.biancheng.net	9	用户名zzzpku	程序设计		付费
+软件自学网	www.rjzxw.com	9	QQ登录	软件学习	密码zzzpku000	免费
+极客学院	e.jikexueyuan.com	10	QQ登录	IT类		部分免费
+编程入门网	http://www.bianceng.cn/Flash/	9	无需注册	编程		免费
+helloword	http://www.he11oworld.com/biancheng/qita/772	8	无需注册	IT类		免费
+51自学网	www.51zixue.net	8	无需注册	大学		免费
+星火视频	http://www.21edu8.com/pcnet/database/43378/	7	无需注册	IT类		免费
+中国在线学习	http://www.china-edu.com.cn/	7	用户名zzzpku	综合		部分免费
+在线学习网	http://www.xuexi.la/	6	无需注册	脑力管理		部分免费
+新农慕课	http://mooc.xjau.edu.cn/courses	9	邮箱2	IT类		免费
+江西科技学院	http://jxut.rymooc.com/	7	未开放注册	大学教育		免费
+东北大学慕课	http://neu.xuetangx.com/#	8	邮箱2	大学教育		免费
+达内精品在线	http://tmooc.cn/web/library/library.html	8	邮箱2	IT类		部分免费
+东南大学堂	http://mooc.seu.edu.cn/moocportal/web/index.action	8	未开放注册	大学教育		免费
+中国科学院继续教育网	http://www.casmooc.cn/	8	未开放注册	综合		部分免费
+中国职业教育微课及mooc	http://www.wkclm.com/web/app.php	8	邮箱2	职业教育		免费
+松大mooc	http://www.stschool.cn/sp/assert_pc/login/login.html		邮箱2	建筑类		免费
+neumooc	http://mooc.neusoft.edu.cn/index/index.html#	9	注册没反应	IT类		免费
+南京大学mooc	http://mooc.nju.edu.cn/Home/Public/register.html	8	要校内邮箱	大学教育		免费
+浙江理工大学mooc	http://zstu.mooc.chaoxing.com/	8	未开放注册	大学教育		免费
+深圳教学视频网	http://video.szxuexiao.com/tongbuketang/html/12314.html	7	未开放注册	综合		免费
+教师专业发展mooc平台	http://peixun.cnweike.cn/course/index/index/categoryId/0/order/student		用户名2	教师技巧		免费
+强氧科技	http://mooc.cgangs.com/	7	未开放注册	综合		免费
+香港公开课	http://mooc.org.hk/	7	未开放注册	综合		免费
+人卫慕课	http://www.pmphmooc.com/		邮箱2	医学慕课		免费
+信谊网络学院	http://mooc.sinepharm.com/	7	注册关闭	偏医学		部分免费
+河池学院	http://mooc.hcnu.edu.cn/home/index.mooc	9	注册关闭	大学教育		免费
+互联网VIP	http://mooc.yangbang.cn/	9	学员卡注册	IT类		付费
+易学mooc	http://demo.elearnmooc.com/mooc/	9	邮箱2	大学教育		免费
+民航教育网	http://www.caacmooc.com/	4	内部登录	民航类		免费
+双语移动课堂	http://mooc.shuangzhong.com/	7	邮箱2	综合		部分免费
+慕课科普学院	http://mooc.dgstm.org.cn:8080/index.jsp	8	邮箱2	科普		免费
+软酷学院	http://mooc.ruanko.com/portal/index!index.action	7	QQ登录	IT类		付费
+广州大学mooc	http://mooc.gzhu.edu.cn/portal/frontCourseIndex/share.mooc	8	邮箱2	大学教育		免费
+
 ---------------------------------------------------------------------以上注册邮箱：zzz_pku@163.com 密码：zzzpku-------------------------------		
----------------------------------------------------------------------QQ号码3170210897  密码 zzzpku--------------------------------------------346---						
+---------------------------------------------------------------------QQ号码3170210897  密码 zzzpku--------------------------------------------383---						
 
 
